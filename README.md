@@ -1,7 +1,7 @@
 # aws-ecr-pusher
 Dockerfile for pushing docker images to AWS ECR.
 
-Note: Required "privileged" mode! Only in Docker >= 1.9.0
+Note: Requires "privileged" mode! Only in Docker >= 1.9.0
 
 How to use
 ----------
